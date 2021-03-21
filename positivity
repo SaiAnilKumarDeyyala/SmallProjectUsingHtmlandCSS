@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Positivite MindSet</title>
+	<style type="text/css">
+		
+		body
+		{
+			  font-family: "Times New Roman";		}
+		.title
+		{
+			background-color: #004E7C;
+			color: white;
+			float: right;
+		}
+		h1
+		{
+			color: #2ECC71;
+			text-align: center;
+		}
+		.lefttable {
+			background-color: dodgerblue;
+			width: 20%;
+		}
+		#successimage
+		{
+			width: 20%;
+			float: right;
+			margin-right: 30px;
+			margin-top: 30px;
+		}
+		th, td
+		{
+		  border: 1px solid black;
+		   
+		}
+		table
+		{
+			 border: 1px solid black;
+			 float: right;
+			 margin-right: 500px;
+		}
+		a:visited {
+             color: #01FF70;
+           }
+          #tablehead {
+
+          }
+       
+	</style>
+</head>
+<body>
+	<div class="title">
+				<img src="https://img.huffingtonpost.com/asset/5b9e33eb240000500053e2d5.jpeg?ops=scalefit_720_noupscale"id="successimage">
+				<h1>Positivity is a life style</h1>
+		<h1>Positivity is your decision</h1>
+
+
+        
+		<center><h3>"Postivity thinking is when we consciously cultivative positivity in our minds so that we think we can get through anything. And it's been scientifically proven to improve your work life, physical and mental health, and relationships."
+		</h3>
+
+			</center>
+					
+		</div>
+		
+
+					<table>
+<caption>By now the benifits of positive thinking are well established. Sages, psycologists, neuroscientists, reasearches and doctors all have been espousing the benifits of positive thinking of hundreds of years, positive thinking helps us to healthier, more productive and ultimately happier. Yet for most of us it is hard to practice optimism on a regular basis.</caption>
+					 <tr>
+    <th>Positivity</th>
+    
+  </tr>
+  <tr> <td>Keep smiling</td>
+</tr>
+     <tr><td>Stop negative thinking</td></tr>
+     <tr>    <td>Create positive sorroundings</td></tr>
+
+  </table>
+
+
+
+
+		<ul  class="lefttable" >
+				<p>Here are top quotes about positivity taken from <a href="https://www.success.com/" target="_blank">success.com</a> from well-known people who have faced failure and success, whose despite certain odds and challenges stayed positive. Use their words to get you going on your own good vibes</p>
+				<li>keep your face to the sunshine and you cannot see a shadow, Helan Keller</li>
+				<li>Once you replace negative thoughts with positive ones, you'll start having positive results, Willie Nelson</li>
+				<li>Yesterday is not ours to recover, but tommorow is ours to win or loose, Lyndon B.JOhnson</li>
+				<li>Inorder to carry a positive action we must develop here a positive vision, Dalat Lama</li>
+				<li>I always like to loook on the optimistic side of life, but iam realistic enough to know that life is a compled matter. Walt Disney</li>
+				<li>Pessimism leads to weakness, optimism to power. Zig Ziglar</li>
+			</ul>
+	
+			
+			
+</body>
+</html>
